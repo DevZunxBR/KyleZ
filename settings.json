@@ -8,7 +8,7 @@
   "server": {
     "ip": "CraftSMP01.aternos.me",
     "port": 42100,
-    "version": "1.21.5",
+    "version": "",
     "try-creative": false
   },
   "position": {
