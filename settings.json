@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CraftSMP01.aternos.me:42100",
+    "ip": "CraftSMP01.aternos.me",
     "port": 42100,
     "version": "1.21.5",
     "try-creative": false
